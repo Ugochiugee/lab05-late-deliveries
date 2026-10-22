@@ -1,0 +1,2 @@
+model,accuracy_mean,accuracy_std,precision_mean,precision_std,recall_mean,recall_std,f1_mean,f1_std,roc_auc_mean,roc_auc_std
+logistic_regression_with_rating,0.9107,0.0121,0.827,0.0243,0.5384,0.0779,0.6498,0.0642,0.9073,0.0171
